@@ -1,0 +1,40 @@
+body{
+	
+ background-color: darkred;
+	
+}
+
+.container{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 100px;
+	font-size: 1.4em;
+}
+
+.btn{
+	width: 100%;
+	margin-top: 6px;
+	color: pink;
+	border-color: pink;
+}
+
+.out{
+
+	margin-bottom: 10px;
+	width: 100%;
+	border-style: none;
+	text-align: center;
+}
+
+.quantity{
+	text-align: center;
+	margin-left: 12px;
+	color: gray;
+	border-radius: 4px;
+	border-style: none;
+}
+
+.pass{
+	color: pink;
+}
+
